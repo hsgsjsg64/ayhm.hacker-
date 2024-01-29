@@ -1,0 +1,3 @@
+import os
+os.sysetem("clear") 
+print("HELLO AYHM") 
